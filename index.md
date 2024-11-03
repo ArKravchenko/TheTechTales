@@ -1,4 +1,5 @@
 # TheTechTales
 ### Оглавление
 
-1. [Other page](/TheTechTales/other-page.html)
+1. [Link to the page in the repo](/TheTechTales/other-page.html)
+2. [Гайд как создавать страницы GitHub Pages](https://tomcam.github.io/least-github-pages/)
