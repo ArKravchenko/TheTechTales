@@ -35,7 +35,7 @@
 
 По факту достойных конкурента два:
 + **Microsoft Visual Studio** - Community edition - бесплатная. Разрабатывается компанией Microsoft. Пользуется большой популярностью [Скачать тут](https://visualstudio.microsoft.com/vs/community/). Из больших минусов - нет версии для Linux, с недавноего времени прекратили поддержку версии для Mac ![Visual Studio](/TheTechTales/assets/VisualStudio_screenshot.png)
-+ **WebStorm** - Бесплатная для некоммерческого использования, а вообще [платная](https://www.jetbrains.com/ru-ru/webstorm/buy/?section=personal&billing=monthly). Разрабатывается компанией **JetBrains**. _По факту стандарт и лучшая IDE для frontend_. Работает на всех платформах, а по ходу вашего профессионального роста вы перейдете на Mac или Linux, поверьте [Скачать тут](https://www.jetbrains.com/ru-ru/webstorm/). ![WebStrom](/TheTechTales/assets/WebStorm_screenshot.png)
++ **WebStorm** - Бесплатная для некоммерческого использования, а вообще [платная](https://www.jetbrains.com/ru-ru/webstorm/buy/?section=personal&billing=monthly). Разрабатывается компанией **JetBrains**. _По факту стандарт и лучшая IDE для frontend_. Работает на всех платформах, а даже если вы еще не, то по ходу вашего профессионального роста вы точно перейдете на Mac или Linux, поверьте. [Скачать тут](https://www.jetbrains.com/ru-ru/webstorm/). ![WebStrom](/TheTechTales/assets/WebStorm_screenshot.png)
 
 ### Что качать то?
 
