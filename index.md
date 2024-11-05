@@ -1,7 +1,7 @@
 [//]: # (# TheTechTales)
 # Оглавление
 
-1. Выбираем IDE
+1. [Выбираем IDE](/TheTechTales/posts/ide.html)
 
 [//]: # (2. [Link to the page in the repo]&#40;/TheTechTales/other-page.html&#41;)
 
