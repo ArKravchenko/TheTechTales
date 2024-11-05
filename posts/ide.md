@@ -20,9 +20,9 @@
 
 #### Редакторы кода для frontend:
 
-+ **Atom** - Бесплатный. Работает на всех платформах. Создавался GitHub, но в 2022 объявлено о завершении поддержки. Работает медленно, ест много памяти, но для редактирования отдельных файлов хватит. [Скачать тут](https://atom-editor.cc).
-+ **Visual Studio Code (не путать с Microsoft Visual Studio)** - Бесплатный. Разрабатывается Microsoft, бесшовная интеграция с их инструментами. Кастомизируется при помощи большого количества плагинов, доступных в интегрированном маркетплейсе. [Скачать тут](https://code.visualstudio.com).
-+ **Sublime** - Нужно покупать лицензию. Но пока ты ее не купил - пользуйся бесплатно (без ограничения по времени). Достаточно быстрый, и простой. Расширяется через плагины. [Скачать тут](https://www.sublimetext.com)
++ **[Atom](https://atom-editor.cc)** - Бесплатный. Работает на всех платформах. Создавался GitHub, но в 2022 объявлено о завершении поддержки. Работает медленно, ест много памяти, но для редактирования отдельных файлов хватит.
++ **[Visual Studio Code](https://code.visualstudio.com) (не путать с Microsoft Visual Studio)** - Бесплатный. Разрабатывается Microsoft, бесшовная интеграция с их инструментами. Кастомизируется при помощи большого количества плагинов, доступных в интегрированном маркетплейсе.
++ **[Sublime](https://www.sublimetext.com)** - Нужно покупать лицензию. Но пока ты ее не купил - пользуйся бесплатно (без ограничения по времени). Достаточно быстрый, и простой. Расширяется через плагины.
 + **И тысячи других...** Самые популярные я уже перечислил.
 
 #### IDE для frontend:
@@ -34,8 +34,8 @@
 > *- CTO*
 
 По факту достойных конкурента два:
-+ **Microsoft Visual Studio** - Community edition - бесплатная. Разрабатывается компанией Microsoft. Пользуется большой популярностью [Скачать тут](https://visualstudio.microsoft.com/vs/community/). Из больших минусов - нет версии для Linux, с недавноего времени прекратили поддержку версии для Mac ![Visual Studio](/TheTechTales/assets/VisualStudio_screenshot.png)
-+ **WebStorm** - Бесплатная для некоммерческого использования, а вообще [платная](https://www.jetbrains.com/ru-ru/webstorm/buy/?section=personal&billing=monthly). Разрабатывается компанией **JetBrains**. _По факту стандарт и лучшая IDE для frontend_. Работает на всех платформах, а даже если вы еще не, то по ходу вашего профессионального роста вы точно перейдете на Mac или Linux, поверьте. [Скачать тут](https://www.jetbrains.com/ru-ru/webstorm/). ![WebStrom](/TheTechTales/assets/WebStorm_screenshot.png)
++ **[Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/community/)** - Community edition - бесплатная. Разрабатывается компанией Microsoft. Пользуется большой популярностью. Из больших минусов - нет версии для Linux, с недавноего времени прекратили поддержку версии для Mac ![Visual Studio](/TheTechTales/assets/VisualStudio_screenshot.png)
++ **[WebStorm](https://www.jetbrains.com/ru-ru/webstorm/)** - Бесплатная для некоммерческого использования, а вообще [платная](https://www.jetbrains.com/ru-ru/webstorm/buy/?section=personal&billing=monthly). Разрабатывается компанией **JetBrains**. _По факту стандарт и лучшая IDE для frontend_. Работает на всех платформах, а даже если вы еще не, то по ходу вашего профессионального роста вы точно перейдете на Mac или Linux, поверьте. ![WebStrom](/TheTechTales/assets/WebStorm_screenshot.png)
 
 ### Что качать то?
 
