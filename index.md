@@ -3,7 +3,8 @@
 
 1. [Выбираем IDE](/TheTechTales/posts/ide.html)
 2. [Подготовка окружения](/TheTechTales/posts/env_preparation.html)
-2. [Сетевая модель OSI](/TheTechTales/posts/osi.html)
+3. [Сетевая модель OSI](/TheTechTales/posts/osi.html)
+4. [Стандарты и polyfill'ы](/TheTechTales/posts/polyfill.html)
 
 [//]: # (2. [Link to the page in the repo]&#40;/TheTechTales/other-page.html&#41;)
 
