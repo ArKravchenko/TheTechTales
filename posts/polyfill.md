@@ -169,7 +169,7 @@ function* flatteningGenerator(foldedList, maxDepth = Infinity, depth = 1) {
 
 Остается определить у нашего исходного массива `foldedList` метод `.flat()`, задав его как
 итератор `descendant[Symbol.iterator]` объекта
-обертки `descendant` (чтобы не переопределять итератор `Array.prototype`), осуществив развертку в контексте исходного
+обертки `descendant` (чтобы не переопределять итератор `foldedList`), осуществив развертку в контексте исходного
 массива `foldedList`, при помощи написанного ранее рекурсивного генератора `flatteningGenerator`.
 
 ```js
